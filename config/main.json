@@ -1,3 +1,6 @@
 {
-  "layouts": []
+  "layouts": [{
+    "id": "abc",
+    "name": "abc"
+  }]
 }
